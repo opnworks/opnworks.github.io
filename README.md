@@ -1,8 +1,8 @@
-# Open-source project hub
+# Opnworks
 
-A small directory of open-source projects by [sridevs](https://github.com/sridevs), with enough context to help people choose a project and find a way to contribute.
+Opnworks is a home for open-source tools built to be useful to people, from personal apps to software-development agents. Explore the projects, find one that interests you, and see how to contribute.
 
-The site is published at <https://sridevs.github.io>. Project details live in [`projects.json`](projects.json); update that catalog when adding or changing a project.
+The site is published at <https://opnworks.github.io>. Project details live in [`projects.json`](projects.json); update that catalog when adding or changing a project.
 
 ## Local preview
 

@@ -1,4 +1,4 @@
-# Contributing to the project hub
+# Contributing to Opnworks
 
 The site is intentionally static. Its project cards are generated from `projects.json`.
 
