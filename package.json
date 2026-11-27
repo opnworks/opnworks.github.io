@@ -1,0 +1,26 @@
+{
+  "name": "opnworks.github.io",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Opnworks is a home for open-source tools built to be useful to people, from personal apps to software-development agents. Explore the projects, find one that interests you, and see how to contribute.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opnworks/opnworks.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opnworks/opnworks.github.io/issues"
+  },
+  "homepage": "https://github.com/opnworks/opnworks.github.io#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0"
+  }
+}
